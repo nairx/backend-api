@@ -1,0 +1,13 @@
+Create folder backend-api
+
+npm install -g json-server
+
+db.json
+{
+  "students": [
+    { "id": 1, "name": "Praveen", "course": "React" },
+    { "id": 2, "name": "Anu", "course": "Node" }
+  ]
+}
+
+json-server --watch db.json --port 3001
