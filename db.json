@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "course": "React"
+    },
+    {
+      "id": 2,
+      "name": "Amy",
+      "course": "Node"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 1400,
+      "desc": "This is the description of the product",
+      "imgUrl": "1.PNG"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 1000,
+      "desc": "This is the description of the product",
+      "imgUrl": "2.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 500,
+      "desc": "This is the description of the product",
+      "imgUrl": "3.PNG"
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": "1234",
+      "desc": "Description of the product",
+      "imgUrl": "4.PNG"
+    }
+  ]
+}
