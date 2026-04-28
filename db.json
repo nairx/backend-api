@@ -15,7 +15,7 @@
     {
       "id": 1,
       "name": "Product 1",
-      "price": 1400,
+      "price": "1401",
       "desc": "This is the description of the product",
       "imgUrl": "1.PNG"
     },
